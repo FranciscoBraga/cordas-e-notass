@@ -1,0 +1,86 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-bottom: 1px solid black ;
+	padding:10px;
+}
+
+header nav ul{
+    display: flex;
+}
+
+header nav ul li{
+    padding: 5px;
+    list-style-type: none;
+	margin-left:10px;
+}
+header nav #login{
+margin-left:800px;
+}
+	
+section {
+    margin-top:5px ;
+    
+ 
+}
+
+section #direita {
+  
+    float: right;
+    width:70% ;
+	
+}
+section #esquerda {
+    
+    float: left;
+    width: 30% ;
+}
+section #esquerda p{
+font-size:50px;  
+}
+section #direita img{
+    width: 30%;
+}
+
+section #esquerda p{
+font-size:50px;
+}
+
+section {
+    margin-top:5px ;
+    
+ 
+}
+
+section #instrumentos{
+  
+    float: right;
+    width:70% ;
+	
+}
+section #instruments {
+    
+    float: left;
+    width: 30% ;
+}
+section #instruments p{
+font-size:50px;  
+}
+section #instrumentos img{
+    width: 30%;
+}
+
+section #instruments p{
+font-size:50px;
+}
+
+
+section {
+    margin-top:5px ;
+    
+ 
+}
